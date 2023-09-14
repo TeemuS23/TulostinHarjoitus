@@ -10,7 +10,7 @@ public class TulostinOhjelma {
 		double luku2=(2.0);
 		double tulo=(luku1*luku2);
 		
-		System.out.println("Hei olen Tulostin-ohjelma");
+		System.out.println("Moi olen Tulostin-ohjelma");
 		System.out.print("Ohjelman luoja: ");
 		System.out.println(tekija);
 		
